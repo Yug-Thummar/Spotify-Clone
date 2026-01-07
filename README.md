@@ -1,4 +1,4 @@
-https://spotify-clone-psi-livid.vercel.app/
+preview : https://spotify-clone-psi-livid.vercel.app/
 
 🚀 Features
 Responsive Design: Fully adaptable layout for all screen sizes using CSS Media Queries.
